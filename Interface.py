@@ -97,7 +97,7 @@ class ImageChecker(QMainWindow):
                 print ("TEST 3 ")
 
                 self.result_label.setStyleSheet("color: green; font-weight: bold")
-                self.result_label.setText(f"Data found! Percentage: {percentage}% with WORD = {word}")
+                self.result_label.setText(f"Data found! the Data From Image is = {DATA_FROM_IMAGE} \n Percentage: {percentage}% with WORD = {word}")
             # Display a red alert if the image does not contain data
             else:
                 self.result_label.setStyleSheet("color: red; font-weight: bold")
