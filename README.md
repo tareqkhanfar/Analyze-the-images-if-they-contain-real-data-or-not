@@ -19,3 +19,7 @@ Designed to be secure and reliable
 # Usage
 Stegno-Analyzer is designed to be secure and reliable. It includes measures to protect the data being analyzed and to prevent unauthorized access or tampering. However, 
 it's important to note that no system can be completely foolproof, and users should always exercise caution and common sense when analyzing sensitive data.
+
+
+![Screenshot (275)](https://user-images.githubusercontent.com/98056148/232298571-32fa29ae-e0f2-41c1-9a62-72f5c7b37252.png)
+![Screenshot (274)](https://user-images.githubusercontent.com/98056148/232298760-592d6237-e6b5-49bd-989d-df0f5824e768.png)
