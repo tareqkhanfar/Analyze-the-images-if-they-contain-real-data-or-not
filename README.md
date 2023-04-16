@@ -1,4 +1,4 @@
-# DetectImage_Encryption-Theory
+# Analyze the images if they contain real data or not
 Stegno-Analyzer is a Python-based project that helps analyze and identify images containing hidden data using various algorithms. 
 The project uses the LSB (Least Significant Bit) algorithm to embed and extract data within images. 
 It then checks whether the extracted data is meaningful and relevant using the Jaccard, Minimum Edit Distance, and N-gram algorithms.
